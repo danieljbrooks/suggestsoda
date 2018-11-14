@@ -6,5 +6,7 @@ pip install suggestsoda
 
 usage:
   import suggestsoda as soda
+
   soda.recommend()
+
   soda.avoid()
