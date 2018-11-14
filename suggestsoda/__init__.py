@@ -1,2 +1,2 @@
-from recommendations import recommend
-from recommendations import avoid
+from .recommendations import recommend
+from .recommendations import avoid
